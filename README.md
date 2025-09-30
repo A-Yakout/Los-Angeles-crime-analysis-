@@ -42,4 +42,4 @@ The goal was to clean, transform, and analyze the dataset to uncover crime trend
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/a-yakout)  
 - 💻 [GitHub](https://github.com/A-Yakout)  
-- 📧 **your.email@example.com**
+- 📧 **abdelrhmanmohamedyakout@gmail.com**
