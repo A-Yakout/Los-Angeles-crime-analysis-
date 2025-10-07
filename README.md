@@ -3,7 +3,8 @@
 ## 📌 Project Overview
 This project analyzes crime data in Los Angeles from **2020 to 2024**, covering around **750,000 reported crimes** across **21 geographic areas**.  
 The goal was to clean, transform, and analyze the dataset to uncover crime trends and provide valuable insights.
--Dataset (https://www.kaggle.com/datasets/saurabhbadole/crime-incidents-in-los-angeles-2020-to-present)
+
+-Dataset : (https://www.kaggle.com/datasets/saurabhbadole/crime-incidents-in-los-angeles-2020-to-present)
 ---
 
 ## 🛠 Tools & Technologies
